@@ -23,3 +23,13 @@ function decrement(n) {
   n--;
   return n;
 }
+
+function makeInt(n) {
+  parseInt(n)
+  return n;
+}
+
+function makefloat(n) {
+  parseFloat(n)
+  return n;
+}
